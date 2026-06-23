@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "zh-CN",
-    baseUrl: "PHI2025-PRISM.github.io/point-zero-wiki",
+    baseUrl: "PHI2025-PRISM.github.io/pointzero-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
